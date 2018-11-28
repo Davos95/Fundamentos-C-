@@ -32,9 +32,8 @@ namespace Fundamentos
         private void btnVerDatos_Click(object sender, EventArgs e)
         {
             int sum = 0, imp = 0, par = 0;
-            foreach(Object obj in this.lstNumeros.Items)
+            foreach(int num in this.lstNumeros.Items)
             {
-                int num = (int)obj;
                 sum += num;
                 if(num % 2 == 0)
                 {

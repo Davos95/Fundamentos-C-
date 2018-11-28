@@ -16,7 +16,7 @@ namespace Fundamentos
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form14ListBoxNumerosAleatorios());
+            Application.Run(new Form35SerializacionPersonajes());
         }
     }
 }

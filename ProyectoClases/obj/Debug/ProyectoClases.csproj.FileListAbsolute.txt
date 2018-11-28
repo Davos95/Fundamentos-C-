@@ -1,0 +1,6 @@
+C:\Users\AlumnoMCSD\source\repos\Fundamentos\ProyectoClases\bin\Debug\ProyectoClases.dll
+C:\Users\AlumnoMCSD\source\repos\Fundamentos\ProyectoClases\bin\Debug\ProyectoClases.pdb
+C:\Users\AlumnoMCSD\source\repos\Fundamentos\ProyectoClases\obj\Debug\ProyectoClases.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\source\repos\Fundamentos\ProyectoClases\obj\Debug\ProyectoClases.dll
+C:\Users\AlumnoMCSD\source\repos\Fundamentos\ProyectoClases\obj\Debug\ProyectoClases.pdb
+C:\Users\AlumnoMCSD\source\repos\Fundamentos\ProyectoClases\obj\Debug\ProyectoClases.csprojAssemblyReference.cache
